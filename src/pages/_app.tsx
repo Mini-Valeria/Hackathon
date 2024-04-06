@@ -1,5 +1,5 @@
 import type { AppProps } from 'next/app';
-
+import "./Hackaton/styles.css"
 import { Client, InternetIdentity } from '@bundly/ares-core';
 import { IcpConnectContextProvider } from '@bundly/ares-react';
 
